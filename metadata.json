@@ -1,0 +1,6 @@
+{
+  "name": "Tử Vi Thần Số Học",
+  "description": "Website phân tích tử vi và thần số học chuyên nghiệp dựa trên ngày sinh và họ tên, đưa ra báo cáo tổng hợp chi tiết và định hướng phát triển bản thân cùng trí tuệ nhân tạo Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
